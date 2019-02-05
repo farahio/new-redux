@@ -1,0 +1,5 @@
+export const RED='RED'
+export const BLUE='BLUE'
+export const YELLOW='YELLOW'
+export const PINK='PINK'
+export const LASTNAME='LASTNAME'
